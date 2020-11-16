@@ -15,6 +15,10 @@
 		24A0258E2561C78900EBD2F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24A0258C2561C78900EBD2F4 /* LaunchScreen.storyboard */; };
 		24A025992561C78900EBD2F4 /* YazilimciyizUygulamasiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A025982561C78900EBD2F4 /* YazilimciyizUygulamasiTests.swift */; };
 		24A025A42561C78900EBD2F4 /* YazilimciyizUygulamasiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A025A32561C78900EBD2F4 /* YazilimciyizUygulamasiUITests.swift */; };
+		24A025B22561CA5700EBD2F4 /* IsBulViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A025B12561CA5700EBD2F4 /* IsBulViewController.swift */; };
+		24A025B42561CA6C00EBD2F4 /* YurtdisiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A025B32561CA6C00EBD2F4 /* YurtdisiViewController.swift */; };
+		24A025B62561CA8D00EBD2F4 /* AlanlarHakkindaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A025B52561CA8D00EBD2F4 /* AlanlarHakkindaViewController.swift */; };
+		24A025B82561CA9C00EBD2F4 /* AlanKarsilastirViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A025B72561CA9C00EBD2F4 /* AlanKarsilastirViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		24A0259F2561C78900EBD2F4 /* YazilimciyizUygulamasiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YazilimciyizUygulamasiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		24A025A32561C78900EBD2F4 /* YazilimciyizUygulamasiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YazilimciyizUygulamasiUITests.swift; sourceTree = "<group>"; };
 		24A025A52561C78900EBD2F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24A025B12561CA5700EBD2F4 /* IsBulViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsBulViewController.swift; sourceTree = "<group>"; };
+		24A025B32561CA6C00EBD2F4 /* YurtdisiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YurtdisiViewController.swift; sourceTree = "<group>"; };
+		24A025B52561CA8D00EBD2F4 /* AlanlarHakkindaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlanlarHakkindaViewController.swift; sourceTree = "<group>"; };
+		24A025B72561CA9C00EBD2F4 /* AlanKarsilastirViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlanKarsilastirViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +111,10 @@
 				24A025832561C78800EBD2F4 /* SceneDelegate.swift */,
 				24A025852561C78800EBD2F4 /* ViewController.swift */,
 				24A025872561C78800EBD2F4 /* Main.storyboard */,
+				24A025B52561CA8D00EBD2F4 /* AlanlarHakkindaViewController.swift */,
+				24A025B72561CA9C00EBD2F4 /* AlanKarsilastirViewController.swift */,
+				24A025B32561CA6C00EBD2F4 /* YurtdisiViewController.swift */,
+				24A025B12561CA5700EBD2F4 /* IsBulViewController.swift */,
 				24A0258A2561C78900EBD2F4 /* Assets.xcassets */,
 				24A0258C2561C78900EBD2F4 /* LaunchScreen.storyboard */,
 				24A0258F2561C78900EBD2F4 /* Info.plist */,
@@ -261,6 +273,10 @@
 			files = (
 				24A025862561C78800EBD2F4 /* ViewController.swift in Sources */,
 				24A025822561C78800EBD2F4 /* AppDelegate.swift in Sources */,
+				24A025B42561CA6C00EBD2F4 /* YurtdisiViewController.swift in Sources */,
+				24A025B82561CA9C00EBD2F4 /* AlanKarsilastirViewController.swift in Sources */,
+				24A025B62561CA8D00EBD2F4 /* AlanlarHakkindaViewController.swift in Sources */,
+				24A025B22561CA5700EBD2F4 /* IsBulViewController.swift in Sources */,
 				24A025842561C78800EBD2F4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

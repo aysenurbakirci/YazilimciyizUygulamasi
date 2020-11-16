@@ -15,6 +15,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+ //let myPickerData = [String](arrayLiteral: "Bilgisayar Programcılığı", "Yazılım Test Uzmanlığı", "İş Analistliği", "Veritabanı Uzmanlığı", "Proje Yöneticiliği")
 }
 
